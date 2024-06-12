@@ -1,7 +1,7 @@
 {
   "name": "demo-chrome-ext",
   "displayName": "demo-chrome-ext",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "**",
   "description": "",
   "type": "module",
